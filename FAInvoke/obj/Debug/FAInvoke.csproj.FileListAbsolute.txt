@@ -8,3 +8,12 @@ C:\temp\FaInvokeTester_5thMay2022\FAInvoke\obj\Debug\FAInvoke.csproj.GenerateRes
 C:\temp\FaInvokeTester_5thMay2022\FAInvoke\obj\Debug\FAInvoke.csproj.CoreCompileInputs.cache
 C:\temp\FaInvokeTester_5thMay2022\FAInvoke\obj\Debug\FAInvoke.exe
 C:\temp\FaInvokeTester_5thMay2022\FAInvoke\obj\Debug\FAInvoke.pdb
+C:\Rabindranath\Source Code\Git\TestRepo28thJuly2022\FAInvoke\bin\Debug\FAInvoke.exe.config
+C:\Rabindranath\Source Code\Git\TestRepo28thJuly2022\FAInvoke\bin\Debug\FAInvoke.exe
+C:\Rabindranath\Source Code\Git\TestRepo28thJuly2022\FAInvoke\bin\Debug\FAInvoke.pdb
+C:\Rabindranath\Source Code\Git\TestRepo28thJuly2022\FAInvoke\obj\Debug\FAInvoke.MainForm.resources
+C:\Rabindranath\Source Code\Git\TestRepo28thJuly2022\FAInvoke\obj\Debug\FAInvoke.Properties.Resources.resources
+C:\Rabindranath\Source Code\Git\TestRepo28thJuly2022\FAInvoke\obj\Debug\FAInvoke.csproj.GenerateResource.cache
+C:\Rabindranath\Source Code\Git\TestRepo28thJuly2022\FAInvoke\obj\Debug\FAInvoke.csproj.CoreCompileInputs.cache
+C:\Rabindranath\Source Code\Git\TestRepo28thJuly2022\FAInvoke\obj\Debug\FAInvoke.exe
+C:\Rabindranath\Source Code\Git\TestRepo28thJuly2022\FAInvoke\obj\Debug\FAInvoke.pdb
